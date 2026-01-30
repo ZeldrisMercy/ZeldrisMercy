@@ -49,6 +49,6 @@
 ---
 ### 📡 Connection Established
 Recrutadores, interceptem meu sinal em:
-<a href="www.linkedin.com/in/icaro-s-m">
+<a href="https://www.linkedin.com/in/icaro-s-m">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_w/_Me-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
